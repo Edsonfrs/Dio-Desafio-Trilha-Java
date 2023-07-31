@@ -3,5 +3,6 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="src" path="Estruturas-Condicionais/src"/>
 	<classpathentry kind="src" path="EstruturasDeRepeticao/src"/>
+	<classpathentry kind="src" path="Comandos-Break-Continue/src"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
