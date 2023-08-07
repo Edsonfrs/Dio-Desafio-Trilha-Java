@@ -4,5 +4,6 @@
 	<classpathentry kind="src" path="Estruturas-Condicionais/src"/>
 	<classpathentry kind="src" path="EstruturasDeRepeticao/src"/>
 	<classpathentry kind="src" path="Comandos-Break-Continue/src"/>
+	<classpathentry kind="src" path="Estruturas-Excecoes/src"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
